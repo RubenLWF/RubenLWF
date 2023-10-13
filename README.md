@@ -7,17 +7,24 @@ In my free time I like to:
 - Work out 🔩
 - Program 👨‍💻
 - Drink beers with friends 🍻
-<!--
-**RubenLWF/RubenLWF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Tech Stack:
+#### I have worked in:
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white&style=ShieldStyle"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white&style=ShieldStyle"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=ShieldStyle"/>
+  <img src="https://img.shields.io/badge/Java-DD0000?logo=coffeescript&logoColor=white&style=ShieldStyle"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=ShieldStyle"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?logo=c-sharp&logoColor=white&style=ShieldStyle"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=ShieldStyle"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=MySQL&logoColor=white&style=ShieldStyle"/>
+</p>
 
-Here are some ideas to get you started:
+#### Version Control and Development tools used:
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=ShieldStyle"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&style=ShieldStyle"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual+Studio+Code&logoColor=white&style=ShieldStyle"/>
+  <img src="https://img.shields.io/badge/JetBrains Rider-000000?logo=Rider&logoColor=white&style=ShieldStyle"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
