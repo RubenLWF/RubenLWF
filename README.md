@@ -17,7 +17,6 @@ I also work as a junior developer at [ChannelEngine](https://www.channelengine.c
   <img src="https://img.shields.io/badge/Java-BB0000?logo=coffeescript&logoColor=white&style=ShieldStyle"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=ShieldStyle"/>
   <img src="https://img.shields.io/badge/C%23-512BD4?logo=c-sharp&logoColor=white&style=ShieldStyle"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=ShieldStyle"/>
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=Raspberry+Pi&logoColor=white&style=ShieldStyle"/>
   <img src="https://img.shields.io/badge/Arduino-00878F?logo=Arduino&logoColor=white&style=ShieldStyle"/>
 </p>
